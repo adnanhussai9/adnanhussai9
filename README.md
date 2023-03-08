@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hello, I'm Syed Adnan Hussain</b></h1>
 <h3 align="center"><i>Passionate about Data Science.</i></h3>
 <br>
-
+<img align="right" src="https://nyesteventuretech.com/images/data-science-full%20course-logo.png" alt="Avatar" style="border-radius:10%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanhussai9&label=Profile%20views&color=0e75b6&style=flat" alt="adnanhussai9" /> </p>
 
 ## About Me:
