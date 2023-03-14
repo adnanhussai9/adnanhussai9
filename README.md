@@ -12,7 +12,7 @@
 
 - Ask me anything about **Data Analysis & Machine Learning**
 
-- How to reach me **adnandbg1@gmail.com**
+- How to reach me **syedadnan78866@gmail.com**
 
 - Know about my experiences [**Resume**](https://drive.google.com/file/d/1qvZ8YMqfHerRCZ0Yo8XIzsMhwf4dOqSy/view?usp=share_link)
 
