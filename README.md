@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hello, I'm Syed Adnan Hussain</b></h1>
+<h1 align="center"><b>Hello,✌️ I'm Syed Adnan Hussain</b></h1>
 <h3 align="center"><i>Passionate about Data Science.</i></h3>
 <br>
 <img align="right" src="https://nyesteventuretech.com/images/data-science-full%20course-logo.png" alt="Avatar" style="border:5px solid #000; border-radius:10%">
